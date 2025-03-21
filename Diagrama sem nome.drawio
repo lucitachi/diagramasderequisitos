@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="6">
   <diagram name="Página-1" id="FC9aavvjiX5Br3IhwFpN">
     <mxGraphModel dx="1050" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -305,6 +305,120 @@
             <mxPoint x="340" y="470" as="sourcePoint" />
             <mxPoint x="480" y="470" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ij7p-dStAF0SxDEehX7u" name="Página-6">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PDMhu_YMLEH2_dESMULs-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDMhu_YMLEH2_dESMULs-1" target="PDMhu_YMLEH2_dESMULs-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDMhu_YMLEH2_dESMULs-1" target="PDMhu_YMLEH2_dESMULs-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDMhu_YMLEH2_dESMULs-1" target="PDMhu_YMLEH2_dESMULs-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-1" value="Professor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PDMhu_YMLEH2_dESMULs-2" target="PDMhu_YMLEH2_dESMULs-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-2" value="Aluno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="425" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDMhu_YMLEH2_dESMULs-3" target="PDMhu_YMLEH2_dESMULs-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-13" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDMhu_YMLEH2_dESMULs-3" target="PDMhu_YMLEH2_dESMULs-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-16" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDMhu_YMLEH2_dESMULs-3" target="PDMhu_YMLEH2_dESMULs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-3" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PDMhu_YMLEH2_dESMULs-2" target="PDMhu_YMLEH2_dESMULs-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="155" y="360" as="sourcePoint" />
+            <mxPoint x="265" y="245" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="155" y="245" />
+              <mxPoint x="265" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="215" y="240" as="sourcePoint" />
+            <mxPoint x="215" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-10" value="Efetuar login" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="426.5" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-12" value="Realizar Cadrasto" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="414" y="115" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-15" value="Visualizar perfil" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="426.5" y="175" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-18" value="extend" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="PDMhu_YMLEH2_dESMULs-15" target="PDMhu_YMLEH2_dESMULs-19">
+          <mxGeometry x="0.0006" y="15" width="160" relative="1" as="geometry">
+            <mxPoint x="510" y="230" as="sourcePoint" />
+            <mxPoint x="650" y="234.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-19" value="Alterar dados" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-23" value="Resolver tarefas" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="400" y="430" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-25" value="Salvar desempenho" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="760" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-27" value="Responder perguntas" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="760" y="510" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-29" value="Visualizar Perguntas" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="760" y="435" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-33" value="includ" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PDMhu_YMLEH2_dESMULs-29" target="PDMhu_YMLEH2_dESMULs-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="369.5" as="sourcePoint" />
+            <mxPoint x="680" y="369.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-34" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PDMhu_YMLEH2_dESMULs-23" target="PDMhu_YMLEH2_dESMULs-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="460" as="sourcePoint" />
+            <mxPoint x="400" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-36" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PDMhu_YMLEH2_dESMULs-23" target="PDMhu_YMLEH2_dESMULs-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="470" as="sourcePoint" />
+            <mxPoint x="410" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-37" value="Visulizar desepenho dos alucos" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="260" width="192.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-39" value="Gerenciar tarefas" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="430" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PDMhu_YMLEH2_dESMULs-40" value="Gerenciar compostos orgânicos" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="414" y="360" width="196" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
